@@ -32,3 +32,27 @@
 [2026-10-10 03:32:35] Tokens: 307 de entrada, 210 de salida, 517 en total
 [2026-10-10 03:32:35] Respuesta: El clima en los Médanos de Coro (estado Falcón) para los próximos días será: 10 de octubre: 29°C, algo de nubes; 11 de octubre: 30°C, cielo claro; 12 de octubre: 30°C, algo de nubes.
 [2026-10-10 03:32:35] Tokens de la consulta: 1109
+[2026-10-10 03:36:40] Pregunta: mongolia
+[2026-10-10 03:36:51] Tokens: 307 de entrada, 182 de salida, 489 en total
+[2026-10-10 03:36:51] Respuesta: ¿Qué ciudad de Mongolia te interesa? Por ejemplo: Ulaanbaatar, Erdenet, Darkhan. Dime si quieres el clima actual o el pronóstico.
+[2026-10-10 03:36:51] Tokens de la consulta: 489
+[2026-10-10 03:37:15] Pregunta: Ulaanbaatar
+[2026-10-10 03:37:18] Tokens: 232 de entrada, 156 de salida, 388 en total
+[2026-10-10 03:37:19] get_weather(Ulaanbaatar) -> El clima en Ulaanbaatar (MN) es 8°C, nubes dispersas.
+[2026-10-10 03:37:22] Tokens: 262 de entrada, 225 de salida, 487 en total
+[2026-10-10 03:37:22] get_weather(Ulaanbaatar) -> El clima en Ulaanbaatar (MN) es 8°C, nubes dispersas.
+[2026-10-10 03:37:25] Tokens: 291 de entrada, 92 de salida, 383 en total
+[2026-10-10 03:37:25] Respuesta: El clima actual en Ulaanbaatar es 8°C con nubes dispersas.
+[2026-10-10 03:37:25] Tokens de la consulta: 1258
+[2026-10-10 03:37:46] Pregunta: hamburguesa
+[2026-10-10 03:37:56] Tokens: 231 de entrada, 222 de salida, 453 en total
+[2026-10-10 03:37:56] Respuesta: No entendí a qué ciudad te refieres. 'Hamburguesa' no es un nombre de ciudad. Por favor, proporciona un nombre de ciudad válido.
+[2026-10-10 03:37:56] Tokens de la consulta: 453
+[2026-10-10 03:38:14] Pregunta: Hamburguesa
+[2026-10-10 03:38:22] Tokens: 231 de entrada, 205 de salida, 436 en total
+[2026-10-10 03:38:22] get_weather(Hamburgo) -> El clima en Hamburg (DE) es 12°C, lluvia ligera.
+[2026-10-10 03:38:24] Tokens: 258 de entrada, 109 de salida, 367 en total
+[2026-10-10 03:38:24] get_weather(Hamburg) -> El clima en Hamburg (DE) es 12°C, lluvia ligera.
+[2026-10-10 03:38:26] Tokens: 284 de entrada, 101 de salida, 385 en total
+[2026-10-10 03:38:26] Respuesta: El clima en Hamburgo (Alemania) es 12°C con lluvia ligera.
+[2026-10-10 03:38:26] Tokens de la consulta: 1188

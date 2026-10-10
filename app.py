@@ -204,5 +204,17 @@ def run_agent(user_input):
 
 
 if __name__ == "__main__":
-    question = input("¿Qué clima quieres consultar? ").strip()
-    print(run_agent(question))
+    while True:
+        print("\n--- Menú del clima ---")
+        print("1. Consultar el clima de una ciudad o país")
+        print("2. Salir")
+        option = input("Elige una opción (1 o 2): ").strip()
+
+        if option == "1":
+            question = input("¿Qué clima quieres consultar? ").strip()
+            print(run_agent(question))
+        elif option == "2":
+            print("Hasta luego.")
+            break
+        else:
+            print("Opción no válida. Intenta de nuevo.")
